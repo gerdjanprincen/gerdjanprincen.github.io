@@ -100,7 +100,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 126,
+    "uniqCompNum": 122,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/stempel-bestellen-01.png",
@@ -113,7 +113,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Gerd-Jan Princen",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
