@@ -1437,9 +1437,22 @@ section.lazy-placeholder:after {
 .cid-rN6YgmKyBp foot-menu-item {
   text-align: right;
 }
+.cid-rN7qB0l3DH {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rN7qB0l3DH .mbr-text,
+.cid-rN7qB0l3DH blockquote {
+  color: #767676;
+}
+.cid-rN7qB0l3DH .mbr-text {
+  color: #000000;
+  text-align: left;
+}
 .cid-rCeEvMp2UH {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rCeEvMp2UH .title {
