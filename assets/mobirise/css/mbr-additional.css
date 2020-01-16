@@ -4325,6 +4325,30 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rNMCrV9EsM {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 0px;
+}
+.cid-rNMCrV9EsM .image-block {
+  margin: auto;
+}
+.cid-rNMCrV9EsM .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rNMCrV9EsM figcaption {
+  position: relative;
+}
+.cid-rNMCrV9EsM figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rNMCrV9EsM .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rNgztN0s0B {
   padding-top: 30px;
   padding-bottom: 0px;
