@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PORTFOLIO GERD-JAN PRINCEN",
-    "currentPage": "Preview.html",
+    "currentPage": "virtual_bookshelf.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135566509-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-135566509-1');\r\n</script>\r\n",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 131,
+    "uniqCompNum": 120,
     "versionPublish": "4.10.10",
     "screenshot": "screenshot.png"
   },
